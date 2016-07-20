@@ -1,0 +1,30 @@
+{
+  "name": "draffty",
+  "version": "1.0.0",
+  "description": "Feedback tool for design teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldelentes/draffty.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "design",
+    "feedback",
+    "open",
+    "source"
+  ],
+  "author": "Eduardo Higareda, Walter Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldelentes/draffty/issues"
+  },
+  "homepage": "https://github.com/eldelentes/draffty#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
